@@ -1,0 +1,661 @@
+CÓDIGO DE IDENTIFICACIÓN ESTACIÓN,CÓDIGO CONECTOR,TIPO CONECTOR,POTENCIA MÁXIMA DE CARGA (W),TIPO DE CARGA,COORDENADA_X,COORDENADA_Y,DIRECCIÓN ,DISTRITO,BARRIO,CÓDIGO POSTAL,TIPO DE ACCESO,OPERADOR,TELF,CONTROL DE ACCESO,RESTRICCIÓN DE USO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,DiagnosticsStatusNotification,HeartBeat,MeterValues,StatusNotification,StopTransaccion,CancelReservation,ChangeAvailability,ChangeConfiguration,ClearCache,DataTranfer,GetConfiguration,GetDiagnostics,GetLocalListVersion,RemoteStartTransaction,RemoteStopTransaction,ReserveNow,Reset,SendLocalList,UnlockConnector,UptateFirmware,Ide euip,
+101,1,CHADEMO,50000,R�PIDA,41.393464,2.204479,"Ronda del Litoral Sortida 23 - Av. Litoral, 49",10 Sant Mart�,El Poblenou,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1011,1011
+101,2,MENNEKES,43000,R�PIDA,41.393464,2.204479,"Ronda del Litoral Sortida 23 - Av. Litoral, 49",10 Sant Mart�,El Poblenou,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1011,0
+101,3,COMBO 2,50000,R�PIDA,41.393464,2.204479,"Ronda del Litoral Sortida 23 - Av. Litoral, 49",10 Sant Mart�,El Poblenou,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1011,0
+102,1,CHADEMO,50000,R�PIDA,41.393464,2.204479,"Via Augusta, 352",05 Sarri� - Sant Gervasi,Sarri�,8017,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1021,1021
+102,2,MENNEKES,43000,R�PIDA,41.393464,2.204479,"Via Augusta, 352",05 Sarri� - Sant Gervasi,Sarri�,8017,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1021,0
+102,3,COMBO 2,50000,R�PIDA,41.393464,2.204479,"Via Augusta, 352",05 Sarri� - Sant Gervasi,Sarri�,8017,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1021,0
+103,1,CHADEMO,50000,R�PIDA,41.380009,2.139145,"Aparcament Viriat, 5-23 - Guitard, 1",03 Sants-Montjuic,Sants,8014,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1031,1031
+103,2,MENNEKES,43000,R�PIDA,41.380009,2.139145,"Aparcament Viriat, 5-23 - Guitard, 1",03 Sants-Montjuic,Sants,8014,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1031,0
+103,3,COMBO 2,50000,R�PIDA,41.380009,2.139145,"Aparcament Viriat, 5-23 - Guitard, 1",03 Sants-Montjuic,Sants,8014,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1031,0
+103,1,CHADEMO,50000,R�PIDA,41.380009,2.139145,"Aparcament Viriat, 5-23 - Guitard, 1",03 Sants-Montjuic,Sants,8014,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1032,
+103,2,MENNEKES,43000,R�PIDA,41.380009,2.139145,"Aparcament Viriat, 5-23 - Guitard, 1",03 Sants-Montjuic,Sants,8014,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1032,
+103,3,COMBO 2,50000,R�PIDA,41.380009,2.139145,"Aparcament Viriat, 5-23 - Guitard, 1",03 Sants-Montjuic,Sants,8014,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1032,
+104,1,CHADEMO,50000,R�PIDA,41.414495,2.137080,"Pl. Alfonso Com�n, 12",06 Gr�cia,Vallcarca i els Penitents,8023,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1041,1041
+104,2,MENNEKES,43000,R�PIDA,41.414495,2.137080,"Pl. Alfonso Com�n, 12",06 Gr�cia,Vallcarca i els Penitents,8023,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1041,0
+104,3,COMBO 2,50000,R�PIDA,41.414495,2.137080,"Pl. Alfonso Com�n, 12",06 Gr�cia,Vallcarca i els Penitents,8023,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1041,0
+105,1,CHADEMO,50000,R�PIDA,41.406484,2.152241,"Torrent de l'Olla, 203",06 Gr�cia,Vila de Gr�cia,8012,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1051,1051
+105,2,MENNEKES,43000,R�PIDA,41.406484,2.152241,"Torrent de l'Olla, 203",06 Gr�cia,Vila de Gr�cia,8012,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1051,0
+105,3,COMBO 2,50000,R�PIDA,41.406484,2.152241,"Torrent de l'Olla, 203",06 Gr�cia,Vila de Gr�cia,8012,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1051,0
+106,1,CHADEMO,50000,R�PIDA,41.441242,2.164861,"Via Fav�ncia, 21 (Mercat Canyelles)",08 Nou Barris,Canyelles,8042,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1061,1061
+106,2,MENNEKES,43000,R�PIDA,41.441242,2.164861,"Via Fav�ncia, 21 (Mercat Canyelles)",08 Nou Barris,Canyelles,8042,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1061,0
+106,3,COMBO 2,50000,R�PIDA,41.441242,2.164861,"Via Fav�ncia, 21 (Mercat Canyelles)",08 Nou Barris,Canyelles,8042,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1061,0
+107,1,CHADEMO,50000,R�PIDA,41.414388,2.172257,"Mas Casanovas, 69",07 Horta-Guinard�,El Guinard�,8041,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1071,1071
+107,2,MENNEKES,43000,R�PIDA,41.414388,2.172257,"Mas Casanovas, 69",07 Horta-Guinard�,El Guinard�,8041,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1071,0
+107,3,COMBO 2,50000,R�PIDA,41.414388,2.172257,"Mas Casanovas, 69",07 Horta-Guinard�,El Guinard�,8041,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1071,0
+108,1,CHADEMO,50000,R�PIDA,41.431152,2.183394," Av. Meridiana, 400 E",09 Sant Andreu,Sant Andreu,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1081,1081
+108,2,MENNEKES,43000,R�PIDA,41.431152,2.183394," Av. Meridiana, 400 E",09 Sant Andreu,Sant Andreu,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1081,0
+108,3,COMBO 2,50000,R�PIDA,41.431152,2.183394," Av. Meridiana, 400 E",09 Sant Andreu,Sant Andreu,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1081,0
+109,1,CHADEMO,50000,R�PIDA,41.404781,2.174774,"Proven�a, 449 - Marina",02 Eixample,La Sagrada Fam�lia,8025,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1091,1091
+109,2,MENNEKES,43000,R�PIDA,41.404781,2.174774,"Proven�a, 449 - Marina",02 Eixample,La Sagrada Fam�lia,8025,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1091,0
+109,3,COMBO 2,50000,R�PIDA,41.404781,2.174774,"Proven�a, 449 - Marina",02 Eixample,La Sagrada Fam�lia,8025,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1091,0
+110,1,CHADEMO,50000,R�PIDA,41.388423,2.169394,"Passeig de Gr�cia, 5",02 Eixample,La Dreta de l'Eixample,8007,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,1101
+110,2,MENNEKES,43000,R�PIDA,41.388423,2.169394,"Passeig de Gr�cia, 5",02 Eixample,La Dreta de l'Eixample,8007,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,0
+110,3,COMBO 2,50000,R�PIDA,41.388423,2.169394,"Passeig de Gr�cia, 5",02 Eixample,La Dreta de l'Eixample,8007,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1101,0
+111,1,CHADEMO,50000,R�PIDA,41.374897,2.171151,"Avinguda del Paral�lel, 55 / Nou de Rambla",03 Sants-Montjuic,Poble sec,8004,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1111,1111
+111,2,MENNEKES,43000,R�PIDA,41.374897,2.171151,"Avinguda del Paral�lel, 55 / Nou de Rambla",03 Sants-Montjuic,Poble sec,8004,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1111,0
+111,3,COMBO 2,50000,R�PIDA,41.374897,2.171151,"Avinguda del Paral�lel, 55 / Nou de Rambla",03 Sants-Montjuic,Poble sec,8004,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1111,0
+111,1,SCHUKO,3600,LENTA,41.374897,2.171151,"Avinguda del Paral�lel, 55 / Nou de Rambla",03 Sants-Montjuic,Poble sec,8004,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1112,1112
+111,1,SCHUKO,3600,LENTA,41.374897,2.171151,"Avinguda del Paral�lel, 55 / Nou de Rambla",03 Sants-Montjuic,Poble sec,8004,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1112,0
+112,1,CHADEMO,50000,R�PIDA,41.393732,2.149179,"Av. Diagonal, 447 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,Esquerra Alta de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1121,1121
+112,2,MENNEKES,43000,R�PIDA,41.393732,2.149179,"Av. Diagonal, 447 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,Esquerra Alta de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1121,0
+112,3,COMBO 2,50000,R�PIDA,41.393732,2.149179,"Av. Diagonal, 447 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,Esquerra Alta de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1121,0
+112,1,SCHUKO,3600,SEMI-R�PIDA,41.404781,2.174774,"Av. Diagonal, 449 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eDUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1122,1122
+112,1,MENNEKES,7200,SEMI-R�PIDA,41.404781,2.174774,"Av. Diagonal, 449 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eDUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1122,0
+112,1,SCHUKO,3600,LENTA,41.404781,2.174774,"Av. Diagonal, 449 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1123,1123
+112,1,SCHUKO,3600,LENTA,41.404781,2.174774,"Av. Diagonal, 449 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1123,0
+112,1,SCHUKO,3600,LENTA,41.404781,2.174774,"Av. Diagonal, 449 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1124,1124
+112,1,SCHUKO,3600,LENTA,41.404781,2.174774,"Av. Diagonal, 449 (lateral Mar) - entre Casanova i Muntaner",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1124,0
+113,1,SCHUKO,3600,SEMI-R�PIDA,41.405719,2.192780,"Llacuna, 149",10 Sant Mart�,El Parc i la Llacuna de Poblenou,8018,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eDUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1131,1131
+113,1,MENNEKES,7200,SEMI-R�PIDA,41.405719,2.192780,"Llacuna, 149",10 Sant Mart�,El Parc i la Llacuna de Poblenou,8018,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eDUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1131,0
+114,1,SCHUKO,3600,SEMI-R�PIDA,41.433908,2.191648,"Sant Adri�, 11-21",09 Sant Andreu,Sant Andreu,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eDUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1141,1141
+114,1,MENNEKES,7200,SEMI-R�PIDA,41.433908,2.191648,"Sant Adri�, 11-21",09 Sant Andreu,Sant Andreu,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eDUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1141,0
+115,1,MENNEKES,7200,SEMI-R�PIDA,41.375453,2.189069,Drassana - Av. Joan de Borb�,01 Ciutat Vella,La Barceloneta,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eTAXI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1151,1151
+115,1,MENNEKES,7200,SEMI-R�PIDA,41.375453,2.189069,Drassana - Av. Joan de Borb�,01 Ciutat Vella,La Barceloneta,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eTAXI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1151,0
+116,1,MENNEKES,7200,SEMI-R�PIDA,41.392722,2.146466,"Villarroel, 277 - Av. Diagonal",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eTAXI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1161,1161
+116,1,MENNEKES,7200,SEMI-R�PIDA,41.392722,2.146466,"Villarroel, 277 - Av. Diagonal",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eTAXI,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1161,0
+117,1,SCHUKO,3600,LENTA,41.407187,2.218089,Passeig Garcia i Faria - Josep Pla,10 Sant Mart�,Diagonal Mar i el Front Mar�tim del Poblenou,8019,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1171,1171
+117,1,SCHUKO,3600,LENTA,41.407187,2.218089,Passeig Garcia i Faria - Josep Pla,10 Sant Mart�,Diagonal Mar i el Front Mar�tim del Poblenou,8019,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1171,0
+118,1,SCHUKO,3600,LENTA,41.375319,2.151658,"Llan��, 1 - Av. Paral�lel",02 Eixample,Sant Antoni,8015,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1181,1181
+118,1,SCHUKO,3600,LENTA,41.375319,2.151658,"Llan��, 1 - Av. Paral�lel",02 Eixample,Sant Antoni,8015,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1181,0
+119,1,SCHUKO,3600,SEMI-R�PIDA,41.395370,2.153832," Av. Diagonal, 508 (lateral Muntanya) � entre Balmes i Tusset",05 Sarri�-Sant Gervasi,Sant Gervasi - Galvany,8006,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eDUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1191,1191
+119,1,MENNEKES,7200,SEMI-R�PIDA,41.395370,2.153832," Av. Diagonal, 508 (lateral Muntanya) � entre Balmes i Tusset",05 Sarri�-Sant Gervasi,Sant Gervasi - Galvany,8006,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU eDUM,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1191,0
+119,1,SCHUKO,3600,LENTA,41.395370,2.153832," Av. Diagonal, 508 (lateral Muntanya) � entre Balmes i Tusset",05 Sarri�-Sant Gervasi,Sant Gervasi - Galvany,8006,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1192,1192
+119,1,SCHUKO,3600,LENTA,41.395370,2.153832," Av. Diagonal, 508 (lateral Muntanya) � entre Balmes i Tusset",05 Sarri�-Sant Gervasi,Sant Gervasi - Galvany,8006,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1192,0
+119,1,SCHUKO,3600,LENTA,41.395370,2.153832," Av. Diagonal, 508 (lateral Muntanya) � entre Balmes i Tusset",05 Sarri�-Sant Gervasi,Sant Gervasi - Galvany,8006,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1193,1193
+119,1,SCHUKO,3600,LENTA,41.395370,2.153832," Av. Diagonal, 508 (lateral Muntanya) � entre Balmes i Tusset",05 Sarri�-Sant Gervasi,Sant Gervasi - Galvany,8006,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1193,0
+120,1,SCHUKO,3600,LENTA,41.381430,2.181947,"Via Laietana, 1 - Pl. Antonio L�pez, 1",01 Ciutat Vella,El Barri G�tic,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1201,1201
+120,1,SCHUKO,3600,LENTA,41.381430,2.181947,"Via Laietana, 1 - Pl. Antonio L�pez, 1",01 Ciutat Vella,El Barri G�tic,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1201,0
+121,1,SCHUKO,3600,LENTA,41.382081,2.191611,"Pg. Salvat Papasseit, 3 - Ginebra",01 Ciutat Vella,La Barceloneta,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1211,1211
+121,1,SCHUKO,3600,LENTA,41.382081,2.191611,"Pg. Salvat Papasseit, 3 - Ginebra",01 Ciutat Vella,La Barceloneta,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1211,0
+122,1,SCHUKO,3600,LENTA,41.393841,2.156069,"C�rsega, 264 - Balmes",02 Eixample,L'Antiga Esquerra de l'Eixample,8008,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1221,1221
+122,1,SCHUKO,3600,LENTA,41.393841,2.156069,"C�rsega, 264 - Balmes",02 Eixample,L'Antiga Esquerra de l'Eixample,8008,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1221,0
+123,1,SCHUKO,3600,LENTA,41.402950,2.165600,"Ind�stria, 19 - Pg. Sant Joan",02 Eixample,El Camp d�en Grassot i Gr�cia Nova,8037,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1231,1231
+123,1,SCHUKO,3600,LENTA,41.402950,2.165600,"Ind�stria, 19 - Pg. Sant Joan",02 Eixample,El Camp d�en Grassot i Gr�cia Nova,8037,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1231,0
+124,1,SCHUKO,3600,LENTA,41.396590,2.182070,"Ausi�s March, 118 - Carrer Ribes",02 Eixample,El Fort Pienc,8013,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1241,1241
+124,1,SCHUKO,3600,LENTA,41.396590,2.182070,"Ausi�s March, 118 - Carrer Ribes",02 Eixample,El Fort Pienc,8013,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1241,0
+125,1,SCHUKO,3600,LENTA,41.387108,2.171430,"Fontanella, 1 - Pl. Catalunya",02 Eixample,La Dreta de l'Eixample,8002,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1251,1251
+125,1,SCHUKO,3600,LENTA,41.387108,2.171430,"Fontanella, 1 - Pl. Catalunya",02 Eixample,La Dreta de l'Eixample,8002,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1251,0
+126,1,SCHUKO,3600,LENTA,41.394249,2.169580,"Bruc, 84 - Consell de Cent",02 Eixample,La Dreta de l'Eixample,8009,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1261,1261
+126,1,SCHUKO,3600,LENTA,41.394249,2.169580,"Bruc, 84 - Consell de Cent",02 Eixample,La Dreta de l'Eixample,8009,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1261,0
+127,1,SCHUKO,3600,LENTA,41.389233,2.161352,"Pl. Dr. Letamendi, 30-33 - Arag�",02 Eixample,L'Antiga Esquerra de l'Eixample,8007,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1271,1271
+127,1,SCHUKO,3600,LENTA,41.389233,2.161352,"Pl. Dr. Letamendi, 30-33 - Arag�",02 Eixample,L'Antiga Esquerra de l'Eixample,8007,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1271,0
+128,1,SCHUKO,3600,LENTA,41.359949,2.133299,"Ctra. Del Prat, 42 - Ci�ncies",03 Sants-Montjuic,La Marina de Port,8940,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1281,1281
+128,1,SCHUKO,3600,LENTA,41.359949,2.133299,"Ctra. Del Prat, 42 - Ci�ncies",03 Sants-Montjuic,La Marina de Port,8940,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1281,0
+129,1,SCHUKO,3600,LENTA,41.381088,2.142061,"Av. Josep Tarradellas, 1 - Num�ncia",03 Sants-Montjuic,Sants,8029,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1291,1291
+129,1,SCHUKO,3600,LENTA,41.381088,2.142061,"Av. Josep Tarradellas, 1 - Num�ncia",03 Sants-Montjuic,Sants,8029,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1291,0
+130,1,SCHUKO,3600,LENTA,41.381470,2.129431,"F�gols, 6 - Jardins dels Doctors Dolsa",04 Les Corts,Les Corts,8028,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1301,1301
+130,1,SCHUKO,3600,LENTA,41.381470,2.129431,"F�gols, 6 - Jardins dels Doctors Dolsa",04 Les Corts,Les Corts,8028,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1301,0
+131,1,SCHUKO,3600,LENTA,41.407161,2.138525,"Balmes, 422 - Castanyer",05 Sarri�-Sant Gervasi,El Putget i Farr�,8022,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1311,1311
+131,1,SCHUKO,3600,LENTA,41.407161,2.138525,"Balmes, 422 - Castanyer",05 Sarri�-Sant Gervasi,El Putget i Farr�,8022,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1311,0
+132,1,SCHUKO,3600,LENTA,41.392338,2.132172,"Av.Sarri�, 126",05 Sarri�-Sant Gervasi,Les Tres Torres,8017,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1321,1321
+132,1,SCHUKO,3600,LENTA,41.392338,2.132172,"Av.Sarri�, 126",05 Sarri�-Sant Gervasi,Les Tres Torres,8017,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1321,0
+133,1,SCHUKO,3600,LENTA,41.394184,2.123801,"D'Osi, 4 - Santa Am�lia",05 Sarri�-Sant Gervasi,Sarri�,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1331,1331
+133,1,SCHUKO,3600,LENTA,41.394184,2.123801,"D'Osi, 4 - Santa Am�lia",05 Sarri�-Sant Gervasi,Sarri�,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1331,0
+134,1,SCHUKO,3600,LENTA,41.413572,2.143069,"Av. Vallcarca, 154",06 Gr�cia,Vallcarca i els Penitens,8023,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1341,1341
+134,1,SCHUKO,3600,LENTA,41.413572,2.143069,"Av. Vallcarca, 154",06 Gr�cia,Vallcarca i els Penitens,8023,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1341,0
+135,1,SCHUKO,3600,LENTA,41.406574,2.152294,"Torrent de l'Olla, 222 - Sant Salvador",06 Gr�cia,Vila de Gr�cia,8012,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1351,1351
+135,1,SCHUKO,3600,LENTA,41.406574,2.152294,"Torrent de l'Olla, 222 - Sant Salvador",06 Gr�cia,Vila de Gr�cia,8012,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1351,0
+136,1,SCHUKO,3600,LENTA,41.444752,2.174366,"Via Fav�ncia, 169 - Almansa",08 Nou Barris,Les Roquetes,8042,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1361,1361
+136,1,SCHUKO,3600,LENTA,41.444752,2.174366,"Via Fav�ncia, 169 - Almansa",08 Nou Barris,Les Roquetes,8042,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1361,0
+137,1,SCHUKO,3600,LENTA,41.438903,2.181348,"Av. Rio de Janeiro, 81",08 Nou Barris,Porta,8016,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1371,1371
+137,1,SCHUKO,3600,LENTA,41.438903,2.181348,"Av. Rio de Janeiro, 81",08 Nou Barris,Porta,8016,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1371,0
+138,1,SCHUKO,3600,LENTA,41.423672,2.179258,"Garcilaso, 204 - Manigua",09 Sant Andreu,El Congr�s i els Indians,8027,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1381,1381
+138,1,SCHUKO,3600,LENTA,41.423672,2.179258,"Garcilaso, 204 - Manigua",09 Sant Andreu,El Congr�s i els Indians,8027,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1381,0
+139,1,SCHUKO,3600,LENTA,41.419931,2.181425,"Pl. Maragall, 21 - Olesa",09 Sant Andreu,El Congr�s i els Indians,8027,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1391,1391
+139,1,SCHUKO,3600,LENTA,41.419931,2.181425,"Pl. Maragall, 21 - Olesa",09 Sant Andreu,El Congr�s i els Indians,8027,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1391,0
+140,1,SCHUKO,3600,LENTA,41.408372,2.202957,"Cristobal de Moura, 24 - Bac de Roda",10 Sant Mart�,Diagonal Mar i el Front Mar�tim del Poblenou,8019,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1401,1401
+140,1,SCHUKO,3600,LENTA,41.408372,2.202957,"Cristobal de Moura, 24 - Bac de Roda",10 Sant Mart�,Diagonal Mar i el Front Mar�tim del Poblenou,8019,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1401,0
+141,1,SCHUKO,3600,LENTA,41.411564,2.218659,"Rbla. Prim, 19 - Av. Diagonal, 2",10 Sant Mart�,El Bes�s i el Maresme,8019,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1411,1411
+141,1,SCHUKO,3600,LENTA,41.411564,2.218659,"Rbla. Prim, 19 - Av. Diagonal, 2",10 Sant Mart�,El Bes�s i el Maresme,8019,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1411,0
+142,1,SCHUKO,3600,LENTA,41.420061,2.201705,"Rbla. Guip�scoa, 103 - Cant�bria",10 Sant Mart�,La Verneda i la Pau,8020,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1421,1421
+142,1,SCHUKO,3600,LENTA,41.420061,2.201705,"Rbla. Guip�scoa, 103 - Cant�bria",10 Sant Mart�,La Verneda i la Pau,8020,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1421,0
+143,1,SCHUKO,3600,LENTA,41.396763,2.200199,"Ciutat de Granada, 17 - Ptge. Mas de Roda",10 Sant Mart�,El Poblenou,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1431,1431
+143,1,SCHUKO,3600,LENTA,41.396763,2.200199,"Ciutat de Granada, 17 - Ptge. Mas de Roda",10 Sant Mart�,El Poblenou,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,SENSE RESTRICCI�,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1432,1432
+144,1,SCHUKO,3600,LENTA,41.375283,2.130336,"Rambla Badal, 167 - Sants",03 Sants-Montjuic,Sants,8028,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1441,1441
+144,1,SCHUKO,3600,LENTA,41.375283,2.130336,"Rambla Badal, 167 - Sants",03 Sants-Montjuic,Sants,8028,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1441,0
+145,1,SCHUKO,3600,LENTA,41.388133,2.107238,"Av. Esplugues, 52 - Eduard Toldr�",04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1451,1451
+145,1,SCHUKO,3600,LENTA,41.388133,2.107238,"Av. Esplugues, 52 - Eduard Toldr�",04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1451,0
+146,1,SCHUKO,3600,LENTA,41.397347,2.119925,"Av. Josep Vicen� Foix, 86 Bis - Mendel",05 Sarri�-Sant Gervasi,Sarri�,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1461,1461
+146,1,SCHUKO,3600,LENTA,41.397347,2.119925,"Av. Josep Vicen� Foix, 86 Bis - Mendel",05 Sarri�-Sant Gervasi,Sarri�,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1461,0
+147,1,SCHUKO,3600,LENTA,41.429405,2.158544,"Lisboa, 9 - Santa Joana d'Arc",07 Horta-Guinard�,Horta,8032,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1471,1471
+147,1,SCHUKO,3600,LENTA,41.429405,2.158544,"Lisboa, 9 - Santa Joana d'Arc",07 Horta-Guinard�,Horta,8032,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1471,0
+148,1,SCHUKO,3600,LENTA,41.434627,2.148196,"Arquitecte Moragas, 31 - Av. Can Marcet, 36",07 Horta-Guinard�,La Vall d'Hebr�n,8035,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1481,1481
+148,1,SCHUKO,3600,LENTA,41.434627,2.148196,"Arquitecte Moragas, 31 - Av. Can Marcet, 36",07 Horta-Guinard�,La Vall d'Hebr�n,8035,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1481,0
+149,1,SCHUKO,3600,LENTA,41.442400,2.197355,Rep�blica Dominicana - Potos�,09 Sant Andreu,El Bon Pastor,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1491,1491
+149,1,SCHUKO,3600,LENTA,41.442400,2.197355,Rep�blica Dominicana - Potos�,09 Sant Andreu,El Bon Pastor,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1491,0
+150,1,SCHUKO,3600,LENTA,41.390975,2.196397,"Rosa Sensat, 14 - Av. d'Ic�ria, 145-147",10 Sant Mart�,La Vila Olimpica de Poblenou,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1501,1501
+150,1,SCHUKO,3600,LENTA,41.390975,2.196397,"Rosa Sensat, 14 - Av. d'Ic�ria, 145-147",10 Sant Mart�,La Vila Olimpica de Poblenou,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1501,0
+151,1,SCHUKO,3600,LENTA,41.380280,2.187290,"Joan de Borb�, 12 - Maquinista",01 Ciutat Vella,La Barceloneta,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1511,1511
+151,1,SCHUKO,3600,LENTA,41.380280,2.187290,"Joan de Borb�, 12 - Maquinista",01 Ciutat Vella,La Barceloneta,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1511,0
+151,1,SCHUKO,3600,LENTA,41.380280,2.187290,"Joan de Borb�, 12 - Maquinista",01 Ciutat Vella,La Barceloneta,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1512,1512
+151,1,SCHUKO,3600,LENTA,41.380280,2.187290,"Joan de Borb�, 12 - Maquinista",01 Ciutat Vella,La Barceloneta,8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1512,0
+153,1,SCHUKO,3600,LENTA,41.384950,2.116110,"Pascual i Vila, 23 - Av. Diagonal",04 Les Corts,La Maternitat i Sant Ram�n,0,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1531,#�REF!
+153,1,SCHUKO,3600,LENTA,41.384950,2.116110,"Pascual i Vila, 23 - Av. Diagonal",04 Les Corts,La Maternitat i Sant Ram�n,0,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1531,0
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,1541
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,0
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,0
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,0
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,0
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,0
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,0
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,0
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,#�REF!
+154,1,SCHUKO,3600,LENTA,41.394067,2.108034,Av. Pearson - Miret i Sans (IESE),04 Les Corts,Pedralbes,8034,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1541,0
+155,1,SCHUKO,3600,LENTA,41.405120,2.207530,"Llull, 285 - Bac de Roda",10 Sant Mart�,Diagonal Mar i el Front Mar�tim del Poblenou,0,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1551,1551
+155,1,SCHUKO,3600,LENTA,41.405120,2.207530,"Llull, 285 - Bac de Roda",10 Sant Mart�,Diagonal Mar i el Front Mar�tim del Poblenou,0,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1551,0
+156,1,SCHUKO,3600,LENTA,41.406514,2.200808,"Lope de Vega, 158-160 - Pere IV (Hotel ME)",10 Sant Mart�,El Bes�s i el Maresme,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1561,1561
+156,1,SCHUKO,3600,LENTA,41.406514,2.200808,"Lope de Vega, 158-160 - Pere IV (Hotel ME)",10 Sant Mart�,El Bes�s i el Maresme,8005,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1561,0
+157,1,SCHUKO,3600,LENTA,41.394501,2.152312,"Av. Diagonal, 429 (lateral Mar) � entre Aribau i Enric Granados ",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1571,1571
+157,1,SCHUKO,3600,LENTA,41.394501,2.152312,"Av. Diagonal, 429 (lateral Mar) � entre Aribau i Enric Granados ",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1571,0
+157,1,SCHUKO,3600,LENTA,41.394501,2.152312,"Av. Diagonal, 429 (lateral Mar) � entre Aribau i Enric Granados  (bis)",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1572,1572
+157,1,SCHUKO,3600,LENTA,41.394501,2.152312,"Av. Diagonal, 429 (lateral Mar) � entre Aribau i Enric Granados  (bis)",02 Eixample,L'Antiga Esquerra de l'Eixample,8036,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1572,0
+158,1,SCHUKO,3600,LENTA,41.396281,2.159284,"Av. Diagonal, 387 (lateral mar) - C�rsega",02 Eixample,La Dreta de l'Eixample,8008,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1581,1581
+158,1,SCHUKO,3600,LENTA,41.396281,2.159284,"Av. Diagonal, 387 (lateral mar) - C�rsega",02 Eixample,La Dreta de l'Eixample,8008,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1581,0
+158,1,SCHUKO,3600,LENTA,41.396281,2.159284,"Av. Diagonal, 387 (lateral mar) - C�rsega (bis)",02 Eixample,La Dreta de l'Eixample,8008,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1582,1582
+158,1,SCHUKO,3600,LENTA,41.396281,2.159284,"Av. Diagonal, 387 (lateral mar) - C�rsega (bis)",02 Eixample,La Dreta de l'Eixample,8008,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1582,0
+159,1,SCHUKO,3600,LENTA,41.393227,2.145783,"Av. Diagonal, 598 - Travessera de Gr�cia",05 Sarri�-Sant Gervasi,Sant Gervasi Galvany,8021,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1591,1591
+159,1,SCHUKO,3600,LENTA,41.393227,2.145783,"Av. Diagonal, 598 - Travessera de Gr�cia",05 Sarri�-Sant Gervasi,Sant Gervasi Galvany,8021,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1591,0
+159,1,SCHUKO,3600,LENTA,41.393227,2.145783,"Av. Diagonal, 598 - Travessera de Gr�cia (bis)",05 Sarri�-Sant Gervasi,Sant Gervasi Galvany,8021,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1592,1592
+159,1,SCHUKO,3600,LENTA,41.393227,2.145783,"Av. Diagonal, 598 - Travessera de Gr�cia (bis)",05 Sarri�-Sant Gervasi,Sant Gervasi Galvany,8021,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1592,0
+160,1,CHADEMO,50000,R�PIDA,41.329694,2.114526,Aparcament Mercabarna,03 Sants-Montjuic,La Marina del Prat Vermell,8040,APARCAMENT PUBLIC,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1601,1601
+160,2,MENNEKES,43000,R�PIDA,41.329694,2.114526,Aparcament Mercabarna,03 Sants-Montjuic,La Marina del Prat Vermell,8040,APARCAMENT PUBLIC,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1601,0
+160,3,COMBO 2,50000,R�PIDA,41.329694,2.114526,Aparcament Mercabarna,03 Sants-Montjuic,La Marina del Prat Vermell,8040,APARCAMENT PUBLIC,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1601,0
+161,1,SCHUKO,3600,LENTA,41.377108,2.119567,Pintor Tapir� 2-6 - Travessera de les Corts,04 Les Corts,La Maternitat i Sant Ramon ,8028,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1611,
+161,1,SCHUKO,3600,LENTA,41.377108,2.119567,Pintor Tapir� 2-6 - Travessera de les Corts,04 Les Corts,La Maternitat i Sant Ramon ,8028,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,EXCLUSIU MOTO,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1611,
+162,1,CHADEMO,50000,R�PIDA,41.382739,2.182802,"Pla de Palau, 22",01 Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1621,
+162,2,MENNEKES,43000,R�PIDA,41.382739,2.182802,"Pla de Palau, 22",01 Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1621,
+162,3,COMBO 2,50000,R�PIDA,41.382739,2.182802,"Pla de Palau, 22",01 Ciutat Vella,"Sant Pere, Santa Caterina i la Ribera",8003,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1621,
+163,1,CHADEMO,50000,R�PIDA,41.432488,2.204905,"Carrer Fra Jun�per Serra, 57",09 Sant Andreu,El Bon Pastor,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1631,
+163,2,MENNEKES,43000,R�PIDA,41.432488,2.204905,"Carrer Fra Jun�per Serra, 57",09 Sant Andreu,El Bon Pastor,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1631,
+163,3,COMBO 2,50000,R�PIDA,41.432488,2.204905,"Carrer Fra Jun�per Serra, 57",09 Sant Andreu,El Bon Pastor,8030,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1631,
+166,1,CHADEMO,50000,R�PIDA,41.402769,2.194560,"Carrer Roc Boronat, 122",10 Sant Mart�,El Parc i la Llacuna del Poblenou,8018,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1661,
+166,2,MENNEKES,43000,R�PIDA,41.402769,2.194560,"Carrer Roc Boronat, 122",10 Sant Mart�,El Parc i la Llacuna del Poblenou,8018,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1661,
+166,3,COMBO 2,50000,R�PIDA,41.402769,2.194560,"Carrer Roco Boronat, 122",10 Sant Mart�,El Parc i la Llacuna del Poblenou,8018,VIA P�BLICA,AJUNTAMENT BCN,932914150,TARGETA VE,C�RREGA R�PIDA (<11kW),,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1661,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,2011
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2011,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021,2021
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2021,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2031,2031
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2031,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2031,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2031,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2031,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2031,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2031,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2031,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,2041
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2041,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2051,2051
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2051,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2051,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2051,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,2061
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2061,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2071,2071
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2071,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2071,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2071,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2071,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2071,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2081,2081
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2081,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2081,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2081,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2091,2091
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2091,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2091,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2091,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2091,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2091,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2091,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2091,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,2101
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2101,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2111,2111
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2111,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2111,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2111,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2111,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2111,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2111,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2111,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2121,2121
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2121,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2121,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2121,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2121,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2121,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2121,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2121,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,2131
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2131,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,2141
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2141,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,2151
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2151,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,2161
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2161,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2171,2171
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2171,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2171,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2171,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2171,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2171,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2181,2181
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2181,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2191,2191
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2191,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2191,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2191,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,2201
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2201,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2211,2211
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2211,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2211,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2211,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2221,2221
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2221,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2221,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2221,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2221,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2221,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2221,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2221,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2231,2231
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2231,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2231,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2231,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2231,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2231,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2231,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2231,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,2241
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2241,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2251,2251
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2251,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2251,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2251,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2251,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2251,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,2261
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2261,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,2271
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2271,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,2281
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2281,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,2291
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2291,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,2301
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2301,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,2311
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2311,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,2321
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2321,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,2331
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2331,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2341,2341
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2341,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2341,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2341,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2351,2351
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2351,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2351,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2351,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2351,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2351,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2361,2361
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2361,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2361,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2361,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,2371
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2371,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2381,2381
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2391,2391
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2401,2401
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2421,2421
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2431,2431
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2441,2441
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2451,2451
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2461,2461
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2471,2471
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2471,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2471,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2481,2481
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2481,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2481,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2491,2491
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2491,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2491,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2491,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2501,2501
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2511,2511
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2521,2521
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2531,2531
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2541,2541
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2551,2551
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2561,2561
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2571,2571
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2581,2581
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2591,2591
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2591,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2591,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2591,0
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2571,2571
+,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,2581,2581
